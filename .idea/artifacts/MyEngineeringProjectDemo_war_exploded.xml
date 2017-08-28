@@ -6,6 +6,9 @@
         <element id="directory" name="classes">
           <element id="module-output" name="MyEngineeringProjectDemo" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: io.netty:netty:3.9.8.Final" />
+        </element>
       </element>
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/target/demo/META-INF/MANIFEST.MF" />
